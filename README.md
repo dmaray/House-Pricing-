@@ -7,7 +7,7 @@ AMS 325 at Stony Brook University. For this project, applied Regression Analysis
 
 ## Documents: 
 The documents are the following: 
-  * housing.csv: Contains the dataset for this project
+  * housing.csv: Contains the dataset for the project
   * AMS 325 - Project Proposal.pdf: Outlines the context of the project
   * AMS325Project (35).ipynb: Contains the code for the project
   * AMS 325 Final Report (3) (2). pdf:
