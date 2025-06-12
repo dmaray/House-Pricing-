@@ -13,7 +13,7 @@ The documents are the following:
     - The report begins with an introduction to our project & literature review.
     - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability.
     - The conclusion contained interpretations based on findings in our Methods section and suggestions for future studies.
-   * AMS325_FINAL_PROJECT (5) (2).pdf: Contains the presentation based on our code & report.
+   * AMS325_FINAL_PROJECT (5) (2).pdf: Contains the presentation based on our code & report that was presented to the class.
 
    
   ## Contributions: 
