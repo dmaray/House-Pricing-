@@ -3,7 +3,7 @@
 
 ## Description: 
 This was a class project for Computing and Programming Fundamentals in Applied Mathematics & Statistics (AMS 325) 
-AMS 325 at Stony Brook University. For this project, applied Regression Analysis (Linear Regression) was used to analyze housing prices. For this project, we chose to focus on furnished houses. 
+at Stony Brook University. For this project, applied Regression Analysis (Linear Regression) was used to analyze housing prices. For this project, we chose to focus on furnished houses. 
 
 ## Documents: 
 The documents are the following: 
