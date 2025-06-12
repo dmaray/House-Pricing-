@@ -2,8 +2,7 @@
 ### Dylan Maray, Raymond Pepper, Sophia Sieli, Stephanie Dong, Madeline Groth, Nancy Huang
 
 ## Description: 
-This was a class project for Computing and Programming Fundamentals in Applied Mathematics & Statistics (AMS 325) 
-at Stony Brook University. For this project, Regression Analysis (Linear Regression) was applied to analyze various factors that would affect housing prices. For this project, we chose to focus on furnished houses. 
+This was a class project for Computing and Programming Fundamentals in Applied Mathematics & Statistics (AMS 325) at Stony Brook University. For this project, Regression Analysis (Linear Regression) was applied to analyze various factors that would affect housing prices. For this project, we chose to focus on furnished houses. We used python libraries such as pandas, seaborn, matplotlib, statsmodels, scipy, numpy, and sklearn for data cleaning, visualization, and analysis. Then, we presented our findings through clear, data-driven reports, and visualizations (via Google Slides/PowerPoint).
 
 ## Documents: 
 The documents are the following: 
@@ -12,7 +11,16 @@ The documents are the following:
   * AMS325Project (35).ipynb: Contains the code for the project
   * AMS 325 Final Report (3) (2). pdf:
     - The report begins with an introduction to our project & literature review.
-    - For Methods, we discuss data pre-processing techniques, testing the four assumptions of Linear Regression (Linearity,        Homoscedasticity, Normality, and Independence), various transformations, model selection, & model comparison.         Hypothesis tesing was done as well. 
-    - The conclusion contained interpretations based on findings in our Methods section and suggestions for future studies. 
-  
-  
+    - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability
+    - The conclusion contained interpretations based on findings in our Methods section and suggestions for future studies.
+   
+  ## Contributions: 
+  * Dylan Maray - Group Coordinator, Code, Report/Presentation Reviewer
+  * Nancy Huang: Presentation Creator
+  * Raymond Pepper: Final Report and Presenter
+  * Sophia Sieli: Proposal, Report/Presentation Format Editor, Presenter
+  * Stephanie Dong: Proposal, Final Report, and Presenter
+  * Madeline Groth: Final Report and Presentation Creator
+
+
+
