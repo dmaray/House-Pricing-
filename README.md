@@ -6,13 +6,15 @@ This was a class project for Computing and Programming Fundamentals in Applied M
 
 ## Documents: 
 The documents are the following: 
-  * housing.csv: Contains the dataset for the project
-  * AMS 325 - Project Proposal.pdf: Outlines the context of the project
-  * AMS325Project (37).ipynb: Contains the code for the project
+  * housing.csv: Contains the dataset for the project.
+  * AMS 325 - Project Proposal.pdf: Outlines the context of the project.
+  * AMS325Project (37).ipynb: Contains the code for the project.
   * AMS 325 Final Report (3) (2). pdf:
     - The report begins with an introduction to our project & literature review.
-    - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability
+    - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability.
     - The conclusion contained interpretations based on findings in our Methods section and suggestions for future studies.
+   * AMS325_FINAL_PROJECT (5) (2).pdf: Contains the presentation based on our code & report.
+
    
   ## Contributions: 
   * Dylan Maray - Group Coordinator, Code, Report/Presentation Reviewer
