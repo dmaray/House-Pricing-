@@ -25,7 +25,7 @@ The documents are the following:
   * Madeline Groth: Final Report and Presentation Creator
 
 ## Dataset Source: 
-https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression/notebook
+https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression/input
 
 
 
