@@ -24,5 +24,8 @@ The documents are the following:
   * Stephanie Dong: Proposal, Final Report, and Presenter
   * Madeline Groth: Final Report and Presentation Creator
 
+## Data Source: 
+https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression/notebook
+
 
 
