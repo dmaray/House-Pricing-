@@ -7,7 +7,7 @@ This was a class project for Computing and Programming Fundamentals in Applied M
 ## Documents: 
 The documents are the following: 
   * [Housing Dataset](housing.csv): Contains the dataset for the project.
-  * [Project Proposal](AMS 325 - Project Proposal.pdf): Initial context, scope, and objectives of the project.
+  * [Project Proposal](<AMS 325 - Project Proposal.pdf>): Initial context, scope, and objectives of the project.
   * [Jupyter Notebook Code](AMS325Project (37).ipynb): Contains the code for the project.
   * AMS 325 Final Report (3) (2). pdf:
     - The report begins with an introduction to our project & literature review.
