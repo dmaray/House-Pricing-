@@ -8,7 +8,7 @@ This was a class project for Computing and Programming Fundamentals in Applied M
 The documents are the following: 
   * [Housing Dataset](housing.csv): Contains the dataset for the project.
   * [Project Proposal](<AMS 325 - Project Proposal.pdf>): Initial context, scope, and objectives of the project.
-  * [Jupyter Notebook](<AMS325Project (37).ipynb>): Contains the code for the project _programming language: Python [conda env:base])_.
+  * [Jupyter Notebook](<AMS325Project (37).ipynb>): Contains the code for the project _(programming language: Python [conda env:base])_.
   * [Final Report](<AMS 325 Final Report (3) (2). pdf>):
     - The report begins with an introduction to our project & literature review.
     - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability.
