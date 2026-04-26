@@ -8,12 +8,12 @@ This was a class project for Computing and Programming Fundamentals in Applied M
 The documents are the following: 
   * [Housing Dataset](housing.csv): Contains the dataset for the project.
   * [Project Proposal](<AMS 325 - Project Proposal.pdf>): Initial context, scope, and objectives of the project.
-  * [Jupyter Notebook Code](AMS325Project (37).ipynb): Contains the code for the project.
-  * AMS 325 Final Report (3) (2). pdf:
+  * [Jupyter Notebook Code](<AMS325Project (37).ipynb>): Contains the code for the project.
+  * [Final Report](<AMS 325 Final Report (3) (2). pdf>):
     - The report begins with an introduction to our project & literature review.
     - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability.
     - The conclusion contained interpretations based on findings in our Methods section and suggestions for future studies.
-   * AMS325_FINAL_PROJECT (5) (2).pdf: Contains the presentation based on our code & report that was presented to the class.
+   * [Presentation Slides](<AMS325_FINAL_PROJECT (5) (2).pdf>): Contains the presentation based on our code & report that was presented to the class.
 
    
   ## Contributions: 
